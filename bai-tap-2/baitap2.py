@@ -1,0 +1,1 @@
+print("Minh sinh nam 2001")
