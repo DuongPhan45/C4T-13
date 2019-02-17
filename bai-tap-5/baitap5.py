@@ -1,0 +1,1 @@
+print ("hôm nay mình xinh hơn hôm qua")
